@@ -4,4 +4,3 @@ function Aprovacao(nota){
     }
 }
 Aprovacao(8)
-
